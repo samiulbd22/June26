@@ -83,7 +83,7 @@ const members = {
     runningMonth    :"June 26",
     previousMonth   :"May-25", // new addDecember link https://grabify.link/P0IBKC
     upComingMonth   :"July 1,2026",
-    runningMealRate :61,
+    runningMealRate :50,
 
 //Continue for mass calculating {"04/08/25-Cash":4550}    
     "01922362569":{
@@ -99,7 +99,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,//2937
         running_paid    :0,
-        running_meal    :0,
+        running_meal    :2,
         // method 
         preMonth,
         runningDiningCost,
@@ -118,8 +118,8 @@ const members = {
         stay_cost       :2300,
         garage_cost     :0,
         running_payable :0,//2514
-        running_paid    :0,
-        running_meal    :0,
+        running_paid    :2000,
+        running_meal    :3,
         // method calling
         preMonth,
         runningDiningCost,
@@ -159,7 +159,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,//9050
         running_paid    :0,
-        running_meal    :0,
+        running_meal    :4,
         // method calling
         preMonth,
         runningDiningCost,
@@ -196,11 +196,11 @@ const members = {
         previous_dining_cost:0,
         payment             :undefined,
         // running month
-        stay_cost       :0,
+        stay_cost       :2800,
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :0,
+        running_meal    :1,
         // method calling
         preMonth,
         runningDiningCost,
@@ -219,8 +219,8 @@ const members = {
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :0,//4359
-        running_paid    :0,
-        running_meal    :0,
+        running_paid    :2000,
+        running_meal    :2,
         // method calling
         preMonth,
         runningDiningCost,
@@ -282,7 +282,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :0,
+        running_meal    :6,
         // method calling
         preMonth,
         runningDiningCost,
