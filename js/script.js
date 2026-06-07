@@ -504,7 +504,7 @@ function opener(){
          || memberNumber    === "01922362569"   || memberNumber === "01797816501"
          || memberNumber    === "01780608997"   || memberNumber === "01581515641"
          || memberNumber    === "01537664564"   || memberNumber === "01880384113"
-         ||memberNumber     ==="01521706612"    || memberNumber === "01821245430"||
+         ||memberNumber     ==="01818334194"    || memberNumber === "01821245430"||
             memberNumber    === "01934147404"   ||memberNumber  ==="01953722448"){
             document.getElementById("user-btn").style.opacity = 1;
             document.getElementById("submitBtn").style.display = 'inline-block';
