@@ -99,7 +99,7 @@ const members = {
         garage_cost     :0,
         running_payable :3022,//2937
         running_paid    :3800,
-        running_meal    :17,
+        running_meal    :18,
         // method 
         preMonth,
         runningDiningCost,
@@ -119,7 +119,7 @@ const members = {
         garage_cost     :0,
         running_payable :2537,//2514
         running_paid    :4000,
-        running_meal    :20,
+        running_meal    :21,
         // method calling
         preMonth,
         runningDiningCost,
@@ -159,7 +159,7 @@ const members = {
         garage_cost     :0,
         running_payable :7245,//9050
         running_paid    :3500,
-        running_meal    :35,
+        running_meal    :37,
         // method calling
         preMonth,
         runningDiningCost,
@@ -179,7 +179,7 @@ const members = {
         garage_cost     :0,
         running_payable :3923,//4433
         running_paid    :4500,
-        running_meal    :24,
+        running_meal    :26,
         // method calling
         preMonth,
         runningDiningCost,
@@ -194,13 +194,13 @@ const members = {
         post_payable        :2800,
         previous_paid       :2800,
         previous_dining_cost:0,
-        payment             :{"06/06/26-Cash":1000,"08/06/26-Cash":2800,"17/06/26-Cash":1000},
+        payment             :{"06/06/26-Cash":1000,"08/06/26-Cash":2800,"17/06/26-Cash":1000,"21/06/26-Cash":500},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
         running_payable :2800,
-        running_paid    :4800,
-        running_meal    :34,
+        running_paid    :5300,
+        running_meal    :36,
         // method calling
         preMonth,
         runningDiningCost,
@@ -220,7 +220,7 @@ const members = {
         garage_cost     :0,
         running_payable :4158,//4359
         running_paid    :6000,
-        running_meal    :19,
+        running_meal    :20,
         // method calling
         preMonth,
         runningDiningCost,
