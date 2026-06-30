@@ -255,7 +255,7 @@ const members = {
         post_payable        :2500,
         previous_paid       :1000,
         previous_dining_cost:0,
-        payment             :{"06/06/26-Cash":2500,"13/06/26-bKash":500,"15/06/26-bKash":1000,"20/06/26-bKash":700},
+        payment             :{"06/06/26-Cash":2500,"13/06/26-bKash":500,"15/06/26-bKash":1000,"20/06/26-bKash":700,"29/06/26-Cash":500},
         // running month
         stay_cost       :2500,
         garage_cost     :0,
